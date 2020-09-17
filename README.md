@@ -10,7 +10,7 @@ _Moved from [gophergala/golang-sizeof.tips](https://github.com/gophergala/golang
 
 Web tool for interactive playing with Golang struct sizes.
 
-Try online version ~~[here](http://golang-sizeof.tips/).~~
+Try online version ~~[here](http://47.106.211.213:7777/).~~
 
 ## Aim
 Provide comfortable tool to see how fields in struct are aligned,
